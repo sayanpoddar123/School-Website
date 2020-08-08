@@ -1,0 +1,25 @@
+h1 {
+    color: white;
+}
+
+/** {
+    border: solid;
+}*/
+
+.header{
+    background-color: #3D2307;
+    display: flex;
+    
+}
+
+.home{
+    background-color: #dc7633;
+    display: flex;
+
+}
+
+.footer{
+    background-color: #ffffff;
+    display: flex;
+    
+}
